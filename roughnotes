@@ -1,0 +1,76 @@
+https://console.pro-eu-west-1.openshift.com/
+
+
+oc login console.pro-eu-west-1.openshift.com -u=i.raajmaheswar -p=IGate@123
+
+
+
+Perfect Jenksins example:-
+
+https://www.redpill-linpro.com/techblog/2018/11/09/openshift-jenkins-pipeline.html
+
+
+SpringBootHelloworld
+
+
+https://github.com/Raajmaheswar/angularspringboot
+
+https://github.com/Raajmaheswar/springbootapp
+
+
+Openshift pipeline full code
+
+
+Jenkins maven code - https://github.com/openshift/origin/tree/master/examples/jenkins/pipeline
+
+https://www.openshift.com/blog/building-declarative-pipelines-openshift-dsl-plugin
+
+Jenkins declarative syntax tutorial - https://www.jenkins.io/doc/book/pipeline/syntax/#declarative-pipeline
+
+Worthwhile example - https://docs.openshift.com/container-platform/3.7/dev_guide/dev_tutorials/openshift_pipeline.html
+
+
+External Jenkins master - https://www.openshift.com/blog/jenkins-slaves-in-openshift-using-an-external-jenkins-environment
+
+Persistence volume claim - https://www.openshift.com/blog/decrease-maven-build-times-openshift-pipelines-using-persistent-volume-claim
+
+Declarative maven project - https://www.jenkins.io/blog/2017/02/07/declarative-maven-project/
+
+
+The following software lab has more examples
+
+http://redhatgov.io/workshops/secure_software_factory/lab01/
+
+
+OpenShift client plugin is the best source for Jenkins pipeline
+
+https://github.com/openshift/jenkins-client-plugin#examples
+
+
+The simple tutorial example
+
+https://www.davinryan.com/openshift-tutorial-build-deploy-node-js-application-jenkins-pipeline/
+
+
+Nodejs example with some cleanup steps
+
+https://edwin.baculsoft.com/2019/10/creating-a-simple-openshift-pipeline-for-nodejs-10-apps-with-jenkins-slave/
+
+
+With proper cleanup script. (Highly recommended)
+
+https://deepkb.com/CO_000017/en/kb/IMPORT-06d27af1-b696-3ecd-81c0-3d591cd9d940/openshift-pipeline-builds
+
+
+Best article for environment based script (Highly recommended)
+
+https://developers.redhat.com/blog/2019/11/27/handling-angular-environments-in-continuous-delivery-with-red-hat-openshift/
+ There is a similar setup for maven also. The link is there in Citrix notepad++
+
+Promoting app across environments
+
+https://docs.openshift.com/container-platform/3.3/dev_guide/application_lifecycle/promoting_applications.html
+
+https://www.openshift.com/blog/promoting-applications-across-environments
+
+Oc syntaxes - https://www.mankier.com/1/oc-start-build
